@@ -70,3 +70,4 @@ metrics. This is a comparison on one split, not a guarantee of performance on
 other samples.
 
 Project repository: [model_comparison](https://github.com/anushkapatil18/model_comparison).
+Streamlit app: https://modelcomparison-rzasfflb6qjsevgbf7ea3y.streamlit.app
